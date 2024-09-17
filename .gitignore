@@ -2,3 +2,6 @@
 .idea/
 target/
 .DS_STORE
+.flattened-pom.xml
+release.properties
+pom.xml.releaseBackup
